@@ -2,5 +2,6 @@
 mydemo
 
 ## Interceptors
-http://code.ssnc.global.gitlab.io/<projectname> - Not working
+https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
+
   
